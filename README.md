@@ -6,8 +6,13 @@
 
 ## Operating System
 
-![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Arch+Bash&color=1D99F3&logo=arch-linux&logoColor=FFFFFF&label=)
-![KDE](https://img.shields.io/static/v1?style=for-the-badge&message=KDE&color=1D99F3&logo=KDE&logoColor=FFFFFF&label=)
+![Arch-Based Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Arch-Based+Linux&color=1793D1&logo=arch-linux&logoColor=FFFFFF&label=)
+![Debian](https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=debian&logoColor=FFFFFF&label=)
+![Ubuntu Server](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu+Server&color=E95420&logo=ubuntu&logoColor=FFFFFF&label=)
+![RHEL](https://img.shields.io/static/v1?style=for-the-badge&message=RHEL&color=EE0000&logo=redhat&logoColor=FFFFFF&label=)
+![KDE](https://img.shields.io/static/v1?style=for-the-badge&message=KDE&color=1D99F3&logo=kde&logoColor=FFFFFF&label=)
+![GNOME](https://img.shields.io/static/v1?style=for-the-badge&message=GNOME&color=4A86CF&logo=gnome&logoColor=FFFFFF&label=)
+![Hyprland](https://img.shields.io/static/v1?style=for-the-badge&message=Hyprland&color=58E1FF&logo=hyprland&logoColor=000000&label=)
 
 ## Languages
 
@@ -40,6 +45,7 @@
 ![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
 ![OBS Studio](https://img.shields.io/static/v1?style=for-the-badge&message=OBS+Studio&color=302E31&logo=OBS+Studio&logoColor=FFFFFF&label=)
 ![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
+![gdb](https://img.shields.io/static/v1?style=for-the-badge&message=gdb&color=A42E2B&logo=gnu&logoColor=FFFFFF&label=)
 ![Wireshark](https://img.shields.io/static/v1?style=for-the-badge&message=Wireshark&color=1679A7&logo=Wireshark&logoColor=FFFFFF&label=)
 
 ## Security Tools
@@ -60,7 +66,7 @@
 ![Hugging Face](https://img.shields.io/static/v1?style=for-the-badge&message=Hugging+Face&color=FFD21E&logo=huggingface&logoColor=000000&label=)
 ![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=pytorch&logoColor=FFFFFF&label=)
 ![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=tensorflow&logoColor=FFFFFF&label=)
-![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit--learn&color=F7931E&logo=scikit-learn&logoColor=FFFFFF&label=)
+![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit--learn&color=F7931E&logo=scikitlearn&logoColor=FFFFFF&label=)
 ![Mistral](https://img.shields.io/static/v1?style=for-the-badge&message=Mistral&color=FA520F&logo=mistralai&logoColor=FFFFFF&label=)
 ![Gemini](https://img.shields.io/static/v1?style=for-the-badge&message=Gemini&color=8E75B2&logo=googlegemini&logoColor=FFFFFF&label=)
 ![Claude](https://img.shields.io/static/v1?style=for-the-badge&message=Claude&color=D97757&logo=anthropic&logoColor=FFFFFF&label=)
@@ -78,12 +84,12 @@
 
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=ED8B00&logo=openjdk&logoColor=FFFFFF&label=)
 ![SQL](https://img.shields.io/static/v1?style=for-the-badge&message=SQL&color=003B57&label=)
-![CSS](https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=1572B6&logo=css3&logoColor=FFFFFF&label=)
+![CSS](https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=1572B6&logo=css&logoColor=FFFFFF&label=)
 ![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C#&color=512BD4&logo=dotnet&logoColor=FFFFFF&label=)
 
 ## Education
 
-![MSc Computer Science (UT, unfinished)](https://img.shields.io/static/v1?style=for-the-badge&message=MSc+Computer+Science+(UT)&color=007808&label=)
+![MSc Computer Science (UT, unfinished)](https://img.shields.io/static/v1?style=for-the-badge&message=MSc+Computer+Science+(UT,+unfinished)&color=007808&label=)
 ![BSc Information Security (HHS)](https://img.shields.io/static/v1?style=for-the-badge&message=BSc+Information+Security+(HHS)&color=007808&label=)
 ![Minor European Economics (UvA)](https://img.shields.io/static/v1?style=for-the-badge&message=Minor+European+Economics+(UvA)&color=007808&label=)
 
