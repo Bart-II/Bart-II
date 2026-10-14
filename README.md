@@ -1,4 +1,8 @@
-### 
+## About
+
+![Information Security](https://img.shields.io/static/v1?style=for-the-badge&message=Information+Security&color=1D99F3&label=)
+![Governance](https://img.shields.io/static/v1?style=for-the-badge&message=Governance&color=1D99F3&label=)
+![Netherlands](https://img.shields.io/static/v1?style=for-the-badge&message=Netherlands&color=AE1C28&label=)
 
 ## Operating System
 
@@ -37,3 +41,56 @@
 ![OBS Studio](https://img.shields.io/static/v1?style=for-the-badge&message=OBS+Studio&color=302E31&logo=OBS+Studio&logoColor=FFFFFF&label=)
 ![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
 ![Wireshark](https://img.shields.io/static/v1?style=for-the-badge&message=Wireshark&color=1679A7&logo=Wireshark&logoColor=FFFFFF&label=)
+
+## Security Tools
+
+![Nmap](https://img.shields.io/static/v1?style=for-the-badge&message=Nmap&color=007808&label=)
+![Metasploit](https://img.shields.io/static/v1?style=for-the-badge&message=Metasploit&color=2A2A2A&logo=metasploit&logoColor=FFFFFF&label=)
+![Burp Suite](https://img.shields.io/static/v1?style=for-the-badge&message=Burp+Suite&color=FF6633&logo=portswigger&logoColor=FFFFFF&label=)
+![Ghidra](https://img.shields.io/static/v1?style=for-the-badge&message=Ghidra&color=B22222&label=)
+![sqlmap](https://img.shields.io/static/v1?style=for-the-badge&message=sqlmap&color=007808&label=)
+![John the Ripper](https://img.shields.io/static/v1?style=for-the-badge&message=John+the+Ripper&color=007808&label=)
+![DirBuster](https://img.shields.io/static/v1?style=for-the-badge&message=DirBuster&color=007808&label=)
+![Ncrack](https://img.shields.io/static/v1?style=for-the-badge&message=Ncrack&color=007808&label=)
+![CTF](https://img.shields.io/static/v1?style=for-the-badge&message=CTF&color=1D99F3&label=)
+
+## AI & Machine Learning
+
+![Ollama](https://img.shields.io/static/v1?style=for-the-badge&message=Ollama&color=000000&logo=ollama&logoColor=FFFFFF&label=)
+![Hugging Face](https://img.shields.io/static/v1?style=for-the-badge&message=Hugging+Face&color=FFD21E&logo=huggingface&logoColor=000000&label=)
+![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=pytorch&logoColor=FFFFFF&label=)
+![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=tensorflow&logoColor=FFFFFF&label=)
+![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit--learn&color=F7931E&logo=scikit-learn&logoColor=FFFFFF&label=)
+![Mistral](https://img.shields.io/static/v1?style=for-the-badge&message=Mistral&color=FA520F&logo=mistralai&logoColor=FFFFFF&label=)
+![Gemini](https://img.shields.io/static/v1?style=for-the-badge&message=Gemini&color=8E75B2&logo=googlegemini&logoColor=FFFFFF&label=)
+![Claude](https://img.shields.io/static/v1?style=for-the-badge&message=Claude&color=D97757&logo=anthropic&logoColor=FFFFFF&label=)
+![QLoRA](https://img.shields.io/static/v1?style=for-the-badge&message=QLoRA&color=007808&label=)
+![RAG](https://img.shields.io/static/v1?style=for-the-badge&message=RAG&color=007808&label=)
+
+## Governance
+
+![ISO 27000](https://img.shields.io/static/v1?style=for-the-badge&message=ISO+27000&color=007808&label=)
+![Incident Response](https://img.shields.io/static/v1?style=for-the-badge&message=Incident+Response&color=007808&label=)
+![OWASP](https://img.shields.io/static/v1?style=for-the-badge&message=OWASP&color=000000&logo=owasp&logoColor=FFFFFF&label=)
+![Scrum](https://img.shields.io/static/v1?style=for-the-badge&message=Scrum&color=007808&label=)
+
+## More Languages
+
+![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=ED8B00&logo=openjdk&logoColor=FFFFFF&label=)
+![SQL](https://img.shields.io/static/v1?style=for-the-badge&message=SQL&color=003B57&label=)
+![CSS](https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=1572B6&logo=css3&logoColor=FFFFFF&label=)
+![C#](https://img.shields.io/static/v1?style=for-the-badge&message=C#&color=512BD4&logo=dotnet&logoColor=FFFFFF&label=)
+
+## Education
+
+![MSc Computer Science (UT, unfinished)](https://img.shields.io/static/v1?style=for-the-badge&message=MSc+Computer+Science+(UT)&color=007808&label=)
+![BSc Information Security (HHS)](https://img.shields.io/static/v1?style=for-the-badge&message=BSc+Information+Security+(HHS)&color=007808&label=)
+![Minor European Economics (UvA)](https://img.shields.io/static/v1?style=for-the-badge&message=Minor+European+Economics+(UvA)&color=007808&label=)
+
+## Spoken Languages
+
+![Dutch - native](https://img.shields.io/static/v1?style=for-the-badge&message=Dutch+--+native&color=AE1C28&label=)
+![English - fluent](https://img.shields.io/static/v1?style=for-the-badge&message=English+--+fluent&color=1D3C7A&label=)
+![German - basic](https://img.shields.io/static/v1?style=for-the-badge&message=German+--+basic&color=555555&label=)
+![French - basic](https://img.shields.io/static/v1?style=for-the-badge&message=French+--+basic&color=555555&label=)
+
