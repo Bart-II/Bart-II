@@ -1,4 +1,45 @@
-### 
+# Bart Fokke
+
+**Information Security & Governance** · Netherlands · [LinkedIn](https://www.linkedin.com/in/bart-fokke-96167b1b9)
+
+I'm curious and like learning new things. I enjoy working with others, but I don't take credit for colleagues' work. I program and work on Linux and networking daily, and I regularly join CTFs, including the yearly AIVD-CTF.
+
+## Experience
+
+- **Information Security Specialist (internship)**, Ministry of the Interior and Kingdom Relations (BZK), Rijksdienst voor Identiteitsgegevens (Aug 2021 – Jan 2022)
+  - Set up the security incident response process: documented how incidents are reported, assessed and handled
+  - Built a reporting button for security incidents in the Self Service Portal
+  - Contributed to the revision of the information security policy
+- **Student Ambassador**, The Hague University of Applied Sciences (Dec 2020 – Feb 2024)
+  - Guided prospective students at open days, hosted livestreams for digital open days and was part of the social media team
+
+## Projects
+
+- **Own AI projects (self-hosted, 2024 – present)**
+  - Connected a fine-tuned Gemma 3 4B (Ollama) to a Discord bot with a custom harness (web search, Wikipedia, notes, polls)
+  - Let a small local model play my economy game to test it, and built an Avalonia UI framework (C#) with an AI subsystem
+
+## Education
+
+- **MSc Computer Science** (not completed), University of Twente, 2024 – 2026: pre-master completed in 2025, then followed courses from the master
+- **BSc Information Security**, The Hague University of Applied Sciences, 2019 – 2024: worked with the ISO 27000 series; CTFs were a fixed part of the programme
+- **Minor European Economics**, University of Amsterdam, 2022 – 2023
+- **Programming in Python** (diploma), LOI, 2019 – 2020
+
+## Skills
+
+- **Security tools:** Nmap, Wireshark, Metasploit, Burp Suite, Ghidra, sqlmap, John the Ripper, DirBuster, Ncrack
+- **Programming & systems:** Python, SQL, Bash, Java, HTML5/CSS, Git, LaTeX, Linux, virtualisation, Software Defined Networking
+- **AI & machine learning:** fine-tuning language models (QLoRA, Unsloth), Ollama, custom RAG and AI harnesses, Hugging Face, PyTorch, TensorFlow, scikit-learn, Mistral/Gemini/Claude APIs, prompt injection
+- **Governance:** information security policy, ISO 27000 series, incident response, OWASP, Scrum
+
+## Languages
+
+Dutch (native) · English (fluent, professional) · German (basic) · French (basic)
+
+## Interests
+
+History, genealogy & genetic research, philosophy & psychology, politics, Linux & AI, building websites, gaming, cats, nuclear physics
 
 ## Operating System
 
