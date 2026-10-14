@@ -83,7 +83,7 @@
 
 ## Education
 
-![MSc Computer Science (UT)](https://img.shields.io/static/v1?style=for-the-badge&message=MSc+Computer+Science+(UT)&color=007808&label=)
+![MSc Computer Science (UT, unfinished)](https://img.shields.io/static/v1?style=for-the-badge&message=MSc+Computer+Science+(UT)&color=007808&label=)
 ![BSc Information Security (HHS)](https://img.shields.io/static/v1?style=for-the-badge&message=BSc+Information+Security+(HHS)&color=007808&label=)
 ![Minor European Economics (UvA)](https://img.shields.io/static/v1?style=for-the-badge&message=Minor+European+Economics+(UvA)&color=007808&label=)
 
